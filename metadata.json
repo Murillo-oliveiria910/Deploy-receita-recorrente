@@ -1,0 +1,6 @@
+{
+  "name": "Gestão Financeira e Administrativa",
+  "description": "Sistema completo de gestão financeira e administrativa para controle de clientes, contratos de receita recorrente (MRR), faturamento consolidado, cobranças extras e relatórios detalhados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
